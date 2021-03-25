@@ -2,6 +2,6 @@
 
 ## Goal
 
-[] Jailbreak the Iphone
+-[ ] Jailbreak the Iphone
 
-[] Don't let apps detect the Iphone has been jailbroken
+-[ ] Don't let apps detect the Iphone has been jailbroken
