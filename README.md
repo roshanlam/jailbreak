@@ -1,6 +1,6 @@
 # Jailbreak
 
-## What to use?
+## What to use to work on this project?
 * Python
 * C
 * Objective-C and maybe some swift
